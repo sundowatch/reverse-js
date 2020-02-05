@@ -1,5 +1,5 @@
 {
-  "name": "reverse-js",
+  "name": "reverse-value",
   "version": "1.0.0",
   "description": "Reverse String, Number, Array, Boolean variables in JavaScript",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sundowatch/reverse-js.git"
+    "url": "git+https://github.com/sundowatch/reverse-value.git"
   },
   "keywords": [
     "reverse",
@@ -29,7 +29,7 @@
   "author": ["Ümit Tunç", "İbrahim Sanduvac"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sundowatch/reverse-js/issues"
+    "url": "https://github.com/sundowatch/reverse-value/issues"
   },
-  "homepage": "https://github.com/sundowatch/reverse-js"
+  "homepage": "https://github.com/sundowatch/reverse-value"
 }

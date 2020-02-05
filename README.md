@@ -1,4 +1,4 @@
-# reverse-js (Reverse Everything)
+# reverse-value (Reverse Everything)
 
 This library reverses all possible variables
 
@@ -10,13 +10,13 @@ This library reverses all possible variables
 - Boolean
 
 ## Installation
-<pre>npm install reverse-js</pre>
+<pre>npm install reverse-value</pre>
 
 
 ## Usage
 #### reverse(value)
 ```javascript
-const rev = require('reverse-js');
+const rev = require('reverse-value');
 
 console.log(rev.reverse( 'qwe' ));      //  ewq
 console.log(rev.reverse( 1992 ));       //  2991
